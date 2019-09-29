@@ -1,0 +1,90 @@
+html,body {
+    margin:0;
+    padding:0;
+    height: 100%
+}
+h1,p {
+    margin:0 0 1em;
+}
+.navbar {
+    padding: 0;
+    margin: 0;
+}
+.mylogo {
+    color: white;
+    background-color: gray;
+    border-color: gray;
+    text-align: center;
+    vertical-align: middle;
+    display: inline;
+    padding: 30px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin: auto;
+}
+.navbar-nav {
+    margin: 0 auto;
+}
+.nav-item {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: gray;
+    margin: 15px;
+}
+.mycontainer {
+    background: url(images/diagonales_decalees.png) repeat;
+    overflow: hidden;
+    height: 90vh;
+    border: 2px solid gray;
+}
+.mainrow {
+    margin-top: 80px;
+}
+.containercolumn {
+    background-color: white;
+    border-length
+}
+.aboutmerow {
+    border-bottom: 1px solid grey;
+}
+.biocolumn {
+    padding: 15px 15px 5px 15px;
+    margin-bottom: 5px;
+}
+.josh_garman_photo {
+    float: left;
+    margin: 2px 10px 2px 2px;
+    box-shadow: 0 8px 6px -6px black;
+}
+p {
+    padding: 0px 15px 0px 5px;
+}
+.footer {
+    height: 50px;
+    padding: 0;
+    margin: 0 auto;
+    background-color: teal;
+    color: white;
+    bottom: 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-content: center;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 5px;
+}
+.fixedbottom {
+    padding: 0px;
+}
+
+/* Contact Form Overrides */
+.my-container {
+    border-top: 2px solid slategray;
+    margin-top: 20px;
+}
+.my-row {
+    margin: 50px 0px;
+    padding: 0;
+}
+.my-col {
+    padding: 0;
+}
